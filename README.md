@@ -1,5 +1,5 @@
 # Shraddha-Sharma
-### Hi there 👋 I'm Shraddha Sharma
+Hi, amigos! I'm Shraddha Sharma
 
 🎓 MCA Student at Lovely Professional University (2024–2026)  
 💻 Passionate about Full Stack Web Development (MERN Stack)  
