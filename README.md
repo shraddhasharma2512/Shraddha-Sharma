@@ -15,7 +15,7 @@ Hi, amigos! I'm Shraddha Sharma
 - Learning: Docker, GitHub Actions, AWS
 
 #### 📌 Projects:
-- Hospital Management System (MERN Stack)
+- Hospital Management System 
 - E-commerce Frontend Website
 
 📫 **Connect with me:**  
